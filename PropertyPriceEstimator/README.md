@@ -13,8 +13,8 @@ However,the final price of the property would depend on the facilities selected 
 and the applicable property tax that was integrated into the App.            
 The App was developed using Python language in Jupyter Notebook and the Tkinter library was used for the App's GUI.
 
-The original look of the App can be seen through the link below:(LOOK INTO THIS PLEASE>>>>>>>>>>>>>>>>>>>>>>)
-https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Original%20App%20Look.png
+The original look of the App can be seen through the link below:
+https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/original.png
 
 # The Steps for using the Property Price Estimator App:
 
@@ -32,9 +32,7 @@ Pool and Basement)
 In order see the App in action,let's enter a postal code of "A1C1A1", select "Duplex" as the building type,4 beds,4 bathrooms,2 garages 
 and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot 
 below. To access the screenshot,click on the link below:
-
-
-https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png >>>>>>>>>>LOOK INTO THE LINK BELOW
+https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
 
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
@@ -48,9 +46,9 @@ The App is equipped with exception handling features which enables the App to ca
 not available, wrong postal code or omitting any of the mandatory fields.
 The above exception handling cases are captured in the screenshot which can be accessed through the link below:
 
+https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/exception_handling.png
 
-https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png >>>>>>>>>>LOOK INTO THE LINK BELOW
-       
+
 
 Final word on the use of the App:
 =================================
