@@ -45,7 +45,6 @@ Exception handling feature of the App:
 The App is equipped with exception handling features which enables the App to catch exceptions such as entering a postal code that is
 not available, wrong postal code or omitting any of the mandatory fields.
 The above exception handling cases are captured in the screenshot which can be accessed through the link below:
-
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/exception_handling.png
 
 
