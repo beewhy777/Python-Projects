@@ -4,8 +4,7 @@
 - Python Libraries Used for building the App: Pandas and Tkinter
 
 
-Brief Description of the Application:
-=====================================
+# Brief Description of the Application:
 This application is a Property Price Estimator that was designed to give a rough price estimate of a property(house) based on the 
 postal code entered by the user.          
 The base price of the house is retrieved by utilizing Pandas library to read from the House Price Spreadsheet(myprop.xlsx ) that 
@@ -17,26 +16,25 @@ The App was developed using Python language in Jupyter Notebook and the Tkinter 
 The original look of the App can be seen through the link below:(LOOK INTO THIS PLEASE>>>>>>>>>>>>>>>>>>>>>>)
 https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Original%20App%20Look.png
 
-The Steps for using the Property Price Estimator App:
-=====================================================
+# The Steps for using the Property Price Estimator App:
+
 The Application is really a user-friendly App.In order to get the rough market price for the area of choice,the user needs to follow
 the steps enumerated below:
-
--User should enter the Postal Code of the area for which he or she wants to get a property.
--Select the building type of choice from the available building types.Although the available building types(bungalow,duplex and 
+- User should enter the Postal Code of the area for which he or she wants to get a property.
+- Select the building type of choice from the available building types.Although the available building types(bungalow,duplex and 
 triplex) are just 3  for now : However,the App can easily be scaled up to accomodate more building types by a very minimal modification
 of the software code.
--Enter the needed number of beds,bathrooms and garages for the property you intend to buy.
--Apart from the facilities listed in the last step above, the user has the option to choose any/all of the optional facilities(Jacuzzi,Swimming
+- Enter the needed number of beds,bathrooms and garages for the property you intend to buy.
+- Apart from the facilities listed in the last step above, the user has the option to choose any/all of the optional facilities(Jacuzzi,Swimming
 Pool and Basement)
--Click the "ESTIMATE" button and the average market price in the area of choice would be displayed accordingly.
+- Click the "ESTIMATE" button and the average market price in the area of choice would be displayed accordingly.
 
 In order see the App in action,let's enter a postal code of "A1C1A1", select "Duplex" as the building type,4 beds,4 bathrooms,2 garages 
 and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot 
 below. To access the screenshot,click on the link below:
 
->>>>>>>>>>LOOK INTO THE LINK BELOW
-https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png
+
+https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png >>>>>>>>>>LOOK INTO THE LINK BELOW
 
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
@@ -50,8 +48,8 @@ The App is equipped with exception handling features which enables the App to ca
 not available, wrong postal code or omitting any of the mandatory fields.
 The above exception handling cases are captured in the screenshot which can be accessed through the link below:
 
->>>>>>>>>>LOOK INTO THE LINK BELOW
-https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png
+
+https://github.com/beewhy777/Python-Projects/blob/main/Python%20Project-UnitConverter/Screenshots/Non-numerical%20Value%20Inputted.png >>>>>>>>>>LOOK INTO THE LINK BELOW
        
 
 Final word on the use of the App:
