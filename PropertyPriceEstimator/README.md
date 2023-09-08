@@ -33,10 +33,11 @@ Pool and Basement)
 - Click the "ESTIMATE" button and the average market price in the area of choice would be displayed accordingly.
 
 In order see the App in action,let's enter a postal code of "A1C1A1", select "Duplex" as the building type,4 beds,4 bathrooms,2 garages 
-and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot 
-below. To access the screenshot,click on the link below:
-
-link here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot below:
+<p align = "center">
+<img src= "https://i.imgur.com/bidwmtW.png",width="50",height ="50",alt="Test Run"/)
+<br/>
+</p>
 
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
