@@ -12,10 +12,14 @@ contains the different house types in all the available Postal Codes and their c
 However,the final price of the property would depend on the facilities selected by the user and their corresponding quantities
 and the applicable property tax that was integrated into the App.            
 The App was developed using Python language in Jupyter Notebook and the Tkinter library was used for the App's GUI.
-
-The original look of the App can be seen through the link below:
+The original look of the App is as shown below:
 
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/original.png
+
+<p align = "center">
+<img src= "https://i.imgur.com/bezYdyF.png",width="50",height ="50",alt="Original Look"/)
+<br/>
+</p>
 
 # The Steps for using the Property Price Estimator App:
 
@@ -34,13 +38,7 @@ In order see the App in action,let's enter a postal code of "A1C1A1", select "Du
 and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot 
 below. To access the screenshot,click on the link below:
 
-https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
-
-<p align = "center">
-<img src= "https://i.imgur.com/jcRHEoQ.png",width="80",height ="80",alt="Original Look"/)
-<br/>
-</p>
-
+link here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
@@ -52,11 +50,12 @@ Exception handling feature of the App:
 ======================================
 The App is equipped with exception handling features which enables the App to catch exceptions such as entering a postal code that is
 not available, wrong postal code or omitting any of the mandatory fields.
-The above exception handling cases are captured in the screenshot which can be accessed through the link below:
+The above exception handling cases are captured in the screenshot shown below:
 
-https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/exception_handling.png
-
-
+<p align = "center">
+<img src= "https://i.imgur.com/jcRHEoQ.png",width="50",height ="50",alt="Exception Handling"/)
+<br/>
+</p>
 
 Final word on the use of the App:
 =================================
