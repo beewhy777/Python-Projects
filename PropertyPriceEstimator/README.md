@@ -35,6 +35,8 @@ and check all the optional facilities and click on the "ESTIMATE" button and the
 below. To access the screenshot,click on the link below:
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
 
+![](screenshots/original.png)
+
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
 When all values for the App parameters have been entered and the outcome has been displayed and you intend to get result for a 
