@@ -35,8 +35,11 @@ and check all the optional facilities and click on the "ESTIMATE" button and the
 below. To access the screenshot,click on the link below:
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
 
-<img src= "https://i.imgur.com/jcRHEoQ.png",width="80",height ="80",alt="Disk Sanitation Steps/")
+<p align = "center">
+<img src= "https://i.imgur.com/jcRHEoQ.png",width="80",height ="80",alt="Disk Sanitization Steps"/)
 <br/>
+<p/>
+
 
 Reinitializing the App(i.e clearing the App Values)
 ===================================================
