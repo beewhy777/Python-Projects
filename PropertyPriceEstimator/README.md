@@ -36,9 +36,9 @@ below. To access the screenshot,click on the link below:
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
 
 <p align = "center">
-<img src= "https://i.imgur.com/jcRHEoQ.png",width="80",height ="80",alt="Disk Sanitization Steps"/)
+<img src= "https://i.imgur.com/jcRHEoQ.png",width="80",height ="80",alt="Original Look"/)
 <br/>
-<p/>
+</p>
 
 
 Reinitializing the App(i.e clearing the App Values)
