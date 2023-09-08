@@ -14,8 +14,6 @@ and the applicable property tax that was integrated into the App.
 The App was developed using Python language in Jupyter Notebook and the Tkinter library was used for the App's GUI.
 The original look of the App is as shown below:
 
-https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/original.png
-
 <p align = "center">
 <img src= "https://i.imgur.com/bezYdyF.png",width="50",height ="50",alt="Original Look"/)
 <br/>
