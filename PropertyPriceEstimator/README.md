@@ -33,6 +33,7 @@ Pool and Basement)
 In order see the App in action,let's enter a postal code of "A1C1A1", select "Duplex" as the building type,4 beds,4 bathrooms,2 garages 
 and check all the optional facilities and click on the "ESTIMATE" button and the outcome of the App would be as shown in the screenshot 
 below. To access the screenshot,click on the link below:
+
 https://github.com/beewhy777/Python-Projects/blob/main/PropertyPriceEstimator/screenshots/testrun.png
 
 <p align = "center">
