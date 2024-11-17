@@ -30,7 +30,7 @@ into the "Qty to Convert" box
 
 The look of the App before clicking on the "CONVERT” button is shown in the screenshot below:
 <p align = "center">
-<img src= "https://i.imgur.com/uRrQqpx.png",width="50",height ="50",alt="Before Clicking CONVERT"/)
+<img src= "https://i.imgur.com/uRrQqpx.png",width="50",height ="50",alt="Before Clicking CONVERT"/)      
 <br/>
 </p>
 
@@ -60,7 +60,15 @@ of inputs into the App or inputting a non-numerical value into the "Qty to Cover
 <img src= "https://i.imgur.com/vEHnE1q.png",width="50",height ="50",alt="Enter Numerial Values"/)
 <br/>
 </p>
-       
+
+<p align = "center">
+<img src= "[https://i.imgur.com/vEHnE1q.png](https://i.imgur.com/9GRiPgw.png)",width="50",height ="50",alt="Enter Numerial Values"/)
+<br/>
+</p>
+
+https://i.imgur.com/9GRiPgw.png
+
+
 Final word on the use of the App:
 =================================
 It should be noted that the App can only be replicated in its full capacity if the Jupyter Notebook file, the excel 
