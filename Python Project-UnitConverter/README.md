@@ -61,12 +61,6 @@ of inputs into the App or inputting a non-numerical value into the "Qty to Cover
 <br/>
 </p>
 
-<p align = "center">
-<img src= "https://i.imgur.com/9GRiPgw.png",width="50",height ="50",alt="Enter Numerial Values"/)
-<br/>
-</p>
-
-
 
 
 Final word on the use of the App:
